@@ -2,7 +2,7 @@ langchain==0.1.0
 python-dotenv==1.0.0
 streamlit==1.29.0
 apify-client 
-chromadb = 0.3.29
+chromadb == 0.3.29
 openai 
 streamlit 
 tiktoken
